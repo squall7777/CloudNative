@@ -1,5 +1,5 @@
-# CloudNative
-雲原生作業2
+# CloudNative  
+雲原生作業2  
 (1)	repo創建:登入github後，右上角+號創建新的repo，確定repo名稱及描述，並設成public且加入README檔案。  
 (2)	main branch:   
 1.	README:點選README即可直接修改，然後commit。  
